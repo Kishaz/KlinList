@@ -1,2 +1,2 @@
 # KlinList
-A pipeline for marine organisms species names auto-correction.
+A pipeline for marine organisms species names misspelling correction.
